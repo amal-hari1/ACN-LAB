@@ -1,6 +1,6 @@
-echo "Enter the first number:"
+echo "Enter the first number a:"
 read a
-echo "Enter the second number:"
+echo "Enter the second number b:"
 read b
 temp=$a
 a=$b
